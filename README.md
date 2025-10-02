@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at Suez Canal University with a strong passion for backend development and problem solving. I've completed the ALX Professional Foundation and Backend Specialization programs, and I'm currently Studying Spring Boot.<br><br>💻 I primarily code in Python and Java and build backend applications using Django, REST APIs,  SQL , Spring and Spring Boot<br>🚀 I  started solving problems on LeetCode to sharpen my algorithmic thinking.<br>🎯 I'm focused on writing clean, scalable backend code and continuously learning new technologies to grow as a developer.
+I'm a student at Suez Canal University with a strong passion for backend development and problem solving. I've completed the ALX Professional Foundation and Backend Specialization programs, and I'm currently Studying Spring Boot.<br><br>💻 I primarily code in Python and Java and build backend applications using Spring Boot, Spring , REST APIs and  SQL   <br>🚀 I  started solving problems on LeetCode to sharpen my algorithmic thinking.<br>🎯 I'm focused on writing clean, scalable backend code and continuously learning new technologies to grow as a developer.
 
 
 ## 🌐 Socials:
